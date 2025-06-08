@@ -69,4 +69,4 @@ Este repositório contém o código CNC do programa `O03006`, desenvolvido para 
 
 ## 📄 Licença
 
-Este código-fonte é fornecido apenas para fins educacionais e técnicos. Verifique as políticas de sua empresa ou instituição antes de aplicá-lo diretamente em máquinas industriais.
+Este código-fonte é fornecido apenas para fins educacionais e técnicos. Verifique as políticas de sua empresa ou instituição antes de aplicá-lo fora do ambiente educacional.
