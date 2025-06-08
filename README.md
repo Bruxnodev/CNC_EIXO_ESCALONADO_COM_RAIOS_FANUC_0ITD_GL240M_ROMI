@@ -57,7 +57,7 @@ Este repositório contém o código CNC do programa `O03006`, desenvolvido para 
 
 ## 🗂️ Arquivo Disponível
 
-- [`O03006.nc`](./O03006.nc): Código-fonte do programa em G-Code para execução direta na máquina.
+- [`O3001.nc`](./O3001.nc): Código-fonte do programa em G-Code para execução direta na máquina.
 
 ---
 
