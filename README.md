@@ -1,4 +1,4 @@
-# 🌀 Programa CNC O03006 – Torneamento de Eixo Escalonado com Raios
+# 🌀 Programa CNC O3001 – Torneamento de Eixo Escalonado com Raios
 
 Este repositório contém o código CNC do programa `O03006`, desenvolvido para a usinagem de um **eixo escalonado com raios** em um **Centro de Torneamento GL240M**, utilizando controle **Fanuc Oi-TD**.
 
